@@ -39,6 +39,16 @@
 .idea/
 .vscode/
 
+# Swift
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+
 # Below are individual files that I may start version controlling later or delete outright.
 /examples/build/COSMO.txt
 /research/ma_fft.c
